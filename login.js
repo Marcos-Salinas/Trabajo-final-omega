@@ -29,7 +29,7 @@
       } else {
         mostrarMensaje('✅ Inicio de sesión correcto', 'success');
         setTimeout(() => {
-          window.location.href = '/index.html';
+          window.location.href = '/Inicio.html';
         }, 1000);
       }
     });
